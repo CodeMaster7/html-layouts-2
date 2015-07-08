@@ -1,0 +1,95 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #FFFFFF ;
+}
+
+.boxa  {
+    background: red;
+    height: 90px;
+    width: 160px;
+    margin: 10px;
+    display: inline-block;
+    
+}
+
+.boxb {
+    background: blue;
+    height: 90px;
+    width: 160px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.boxc {
+    background: black;
+    height: 90px;
+    width: 160px;
+    margin: 10px;
+    display: inline-block;
+}
+
+p {
+    padding-left: 10px;
+	padding-top:  30px;
+	padding-right: 72%;
+    padding-bottom: 30px;
+    text-align: left;
+    font-size: 18;
+    margin: 10px;
+}
+
+.boxd {
+    background: red;
+    height: 250px;
+    width: 160;
+    margin-left: 10px;
+    display: inline-block;
+    position: relative;
+}
+
+.boxf {
+    background: blue;
+    height: 250px;
+    width: 375px;
+    margin: auto;
+    display: inline-block;
+    position: absolute;
+}
+
+.container {
+    background: blue;
+    height: 90px;
+    width: 535px;
+    margin: auto;
+    position: relative;
+    margin-top: 10px;
+    margin-left: 10px
+}
+
+.small-box1 {
+    background: red;
+    height: 90px;
+    width: 180px;
+    position: absolute;
+    right: 0;
+}
+
+.small-box2 {
+    background: grey;
+    height: 90px;
+    width: 125px;
+    position: absolute;
+    right: 27;
+}
+
+
+
+
+
+
+
+
+
